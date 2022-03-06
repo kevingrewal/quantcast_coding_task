@@ -8,6 +8,6 @@ DESIGN:
   - CookieLogs class represents a single Cookie as an object
 
 MORE:
-  -PROGRAMMED IN JAVA USING INTELLIJ IDE
-  -USED INTERNAL BASH SCRIPT TO MATCH CLI PROMPT (ie. ./most_active_cookie cookie_log.csv -d 2018-12-09)
-  -USED JUNIT AS TESTING FRAMEWORK TO CREATE TWO TESTS (tests described in coding task for DATES: 2018-12-09, 2018-12-08)
+  - Programmed in java using IntelliJ IDE
+  - Integrated internal bash script to match CLI prompt (ie. ./most_active_cookie cookie_log.csv -d 2018-12-09)
+  - Used JUnit as testing framework to create two tests (tests described in coding task for dates: 2018-12-09, 2018-12-08)
