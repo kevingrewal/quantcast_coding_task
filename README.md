@@ -4,7 +4,7 @@ Finds Most Active Cookie
 DESIGN:
   - Split into three classes: Main.java CookieLogs.java LogFileReader.java
   - Main runs the program
-  - LogFileReader parses the file and builds structures to analyze frequency of cookies by date
+  - LogFileReader parses the file and builds data structures to analyze frequency of cookies by date
   - CookieLogs class represents a single Cookie as an object
 
 MORE:
